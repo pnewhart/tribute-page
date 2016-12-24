@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.title{
+  font-family: Open Sans, serif;
+}
+
+#apple-logo{
+  margin-bottom: 15px;
+}
+
+#steve-jobs {
+  padding-right: 10px;
+  padding-bottom: 3px;
+}
+
+.signature {
+  color: grey;
+  margin-top: 15px;
+  font-size: 1.5vw;
+}
+
+.background {
+  background-color:  LightGrey;
+  margin:10px 10px;
+  border-radius: 10px;
+}
+
+body{
+  position: fixed;
+}
+
+.quote{
+  font-size: 2vmax;
+  padding: 75px;
+  text-align: justify;
+}
